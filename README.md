@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a PhD candidate in the Autonomous Robots Lab (ARL) at the Norwegian University of Science and Technology (NTNU). Though I mostly work in SLAM, I dabble in other aspects of robotics as well. 
+
 <!--
 **nkhedekar/nkhedekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
